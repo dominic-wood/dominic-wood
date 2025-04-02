@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a Glasgow-based technical writer with a background in software engineering, documentation, and developer tools. I enjoy turning complex technical ideas into digestible, engaging content — whether that’s code tutorials, API docs, or product guides.
 <!--
 **dominic-wood/dominic-wood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
