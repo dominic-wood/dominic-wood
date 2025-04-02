@@ -1,16 +1,41 @@
-## Hi there 👋
-I'm a Glasgow-based technical writer with a background in software engineering, documentation, and developer tools. I enjoy turning complex technical ideas into digestible, engaging content — whether that’s code tutorials, API docs, or product guides.
-<!--
-**dominic-wood/dominic-wood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Dominic Wood
 
-Here are some ideas to get you started:
+**Technical Writer** | **Software Engineer** | **Network Engineer**  
+📍 Glasgow, UK | 🧠 I turn complex technical concepts into clear, helpful documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Projects
+
+### 🔐 [Password Generator (Python)](https://github.com/dominic-wood/password-generator)  
+A secure, command-line password generator with configurable options for length, character sets, and randomness. Includes detailed README and inline documentation.
+
+### 📸 [QR Code Generator (Python)](https://github.com/dominic-wood/qr-code-generator)  
+Generates QR codes from user input (text or URLs) with options for size and image output. Simple CLI tool with usage examples and setup instructions.
+
+---
+
+## ✍️ Writing Samples
+
+### 📘 [Git for Beginners](https://github.com/dominic-wood/technical-writing-portfolio/blob/main/git-guide.md)  
+An easy-to-follow guide covering Git installation, key commands, and real-world workflows for beginners.
+
+### 🧪 [Mock API Documentation](https://github.com/dominic-wood/technical-writing-portfolio/blob/main/api-docs.md)  
+Fictional REST API docs for a task manager. Covers endpoints, authentication, sample responses, and error handling.
+
+---
+
+## 📫 Get in Touch
+
+- 🔗 [LinkedIn](https://linkedin.com/in/domjwood)
+- 💻 [GitHub](https://github.com/dominic-wood)
+- 📧 [Email](mailto:dominicwood@outlook.com)
+
+<!-- Optional: Add a profile image -->
+![Dominic's avatar](https://avatars.githubusercontent.com/u/your_user_id?s=200)
+
+---
+
+> *“Documentation is the interface between the user and the system.”*  
+> — You, probably.
+
