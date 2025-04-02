@@ -13,7 +13,7 @@ Generates QR codes from user input (text or URLs) with options for size and imag
 
 ## ✍️ Writing Samples
 
-### 📘 [Git for Beginners](https://github.com/dominic-wood/technical-writing-portfolio/blob/main/git-guide.md)  
+### 📘 [Git for Beginners](https://github.com/dominic-wood/git-guide.md)  
 An easy-to-follow guide covering Git installation, key commands, and real-world workflows for beginners.
 
 ### 🧪 [Mock API Documentation](https://github.com/dominic-wood/technical-writing-portfolio/blob/main/api-docs.md)  
