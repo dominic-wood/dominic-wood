@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Dominic Wood
 
 **Technical Writer** | **Software Engineer** | **Network Engineer**  
-📍 Glasgow, UK | 🧠 I turn complex technical concepts into clear, helpful documentation.
 
 ### 🧰 Projects
 
