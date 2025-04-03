@@ -168,25 +168,3 @@ All error responses follow this format:
 | 400 Bad Request | Invalid input or parameters |
 | 401 Unauthorized | Missing or invalid token    |
 | 404 Not Found | Resource not found           |
-
-<a href="#top" id="return-to-top">
-  ⬆
-</a>
-
-<style>
-#return-to-top {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  background: #007acc;
-  color: white;
-  padding: 8px 12px;
-  text-decoration: none;
-  border-radius: 6px;
-  font-weight: bold;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-}
-#return-to-top:hover {
-  background: #005fa3;
-}
-</style>
