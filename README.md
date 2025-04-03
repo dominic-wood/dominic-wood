@@ -9,9 +9,3 @@ A secure, command-line password generator with configurable options for length, 
 
 #### 📸 [QR Code Generator (Python)](https://github.com/dominic-wood/qr-code-generator)  
 Generates QR codes from user input (text or URLs) with options for size and image output. Simple CLI tool with usage examples and setup instructions.
-
-### 📫 Get in Touch
-
-- 🔗 [LinkedIn](https://linkedin.com/in/domjwood)
-- 💻 [GitHub](https://github.com/dominic-wood)
-- 📧 [Email](mailto:dominicwood@outlook.com)
