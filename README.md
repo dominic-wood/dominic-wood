@@ -13,7 +13,7 @@ A secure, command-line password generator with configurable options for length, 
 Generates QR codes from user input (text or URLs) with options for size and image output. Simple CLI tool with usage examples and setup instructions.
 
 #### 🚀 [Courier- A Postman Clone (C#)](https://github.com/dominic-wood/courier-app)
-A lightweight desktop app for sending HTTP requests adn viewing formatted JSON responses. 
+A lightweight desktop app for sending HTTP requests and viewing formatted JSON responses. 
 
 ## ✍️ Writing Samples
 
