@@ -6,7 +6,7 @@ Welcome to my GitHub! I create developer-friendly tools, write clear and concise
 
 ## 🧰 Featured Projects
 
-#### 🔐 [NetTools (Python)](https://github.com/dominic-wood/nettools)  
+#### 🛠️ [NetTools (Python)](https://github.com/dominic-wood/nettools)  
 A desktop network utility suite with a clean GUI. Combines ping sweeps, port scanning, DNS lookups, and traceroutes into one app. Built with PySide6 and Python’s native networking tools. Fast, beginner-friendly, and cross-platform ready.
 
 #### 🔐 [Password Generator (Python)](https://github.com/dominic-wood/password-generator)  
