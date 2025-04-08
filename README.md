@@ -15,7 +15,7 @@ A secure, command-line password generator with configurable options for length, 
 #### 📸 [QR Code Generator (Python)](https://github.com/dominic-wood/qr-code-generator)  
 Generates QR codes from user input (text or URLs) with options for size and image output. Simple CLI tool with usage examples and setup instructions.
 
-#### 🚀 [Courier- A Postman Clone (C#)](https://github.com/dominic-wood/courier-app)
+#### 🚀 [Courier- A Postman Clone (C#)](https://github.com/dominic-wood/courier)
 A lightweight desktop app for sending HTTP requests and viewing formatted JSON responses. 
 
 ## ✍️ Writing Samples
