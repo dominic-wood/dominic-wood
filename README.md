@@ -9,8 +9,8 @@ Welcome to my GitHub! I create developer-friendly tools, write clear and concise
 #### 🔺 [Courier - API Toolkit (TypeScript](https://github.com/dominic-wood/courier)
 A lightweight desktop app for sending HTTP requests and viewing formatted JSON responses. 
 
-#### ⚽ [WanderSport - Football Availability Tracker (JavaScript)](https://github.com/dominic-wood/courier)
-A lightweight desktop app for sending HTTP requests and viewing formatted JSON responses. 
+#### ⚽ [WanderSport - Football Availability Tracker (JavaScript)](https://github.com/dominic-wood/wandersport)
+A lightweight web app to manage weekly football game attendance. Players can confirm availability, get automatically moved to standby if the match fills up, and receive email notifications if promoted due to someone dropping out. 
 
 #### 🛠️ [NetTools (Python)](https://github.com/dominic-wood/nettools)  
 A desktop network utility suite with a clean GUI. Combines ping sweeps, port scanning, DNS lookups, and traceroutes into one app. Built with PySide6 and Python’s native networking tools. Fast, beginner-friendly, and cross-platform ready.
