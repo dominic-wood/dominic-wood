@@ -6,6 +6,12 @@ Welcome to my GitHub! I create developer-friendly tools, write clear and concise
 
 ## 🧰 Featured Projects
 
+#### 🔺 [Courier - API Toolkit (TypeScript](https://github.com/dominic-wood/courier)
+A lightweight desktop app for sending HTTP requests and viewing formatted JSON responses. 
+
+#### ⚽ [WanderSport - Football Availability Tracker (JavaScript)](https://github.com/dominic-wood/courier)
+A lightweight desktop app for sending HTTP requests and viewing formatted JSON responses. 
+
 #### 🛠️ [NetTools (Python)](https://github.com/dominic-wood/nettools)  
 A desktop network utility suite with a clean GUI. Combines ping sweeps, port scanning, DNS lookups, and traceroutes into one app. Built with PySide6 and Python’s native networking tools. Fast, beginner-friendly, and cross-platform ready.
 
@@ -14,9 +20,6 @@ A secure, command-line password generator with configurable options for length, 
 
 #### 📸 [QR Code Generator (Python)](https://github.com/dominic-wood/qr-code-generator)  
 Generates QR codes from user input (text or URLs) with options for size and image output. Simple CLI tool with usage examples and setup instructions.
-
-#### 🔺 [Courier - API Toolkit](https://github.com/dominic-wood/courier)
-A lightweight desktop app for sending HTTP requests and viewing formatted JSON responses. 
 
 ## ✍️ Writing Samples
 
