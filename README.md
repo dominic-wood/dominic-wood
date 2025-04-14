@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dominic Wood
 
-**Technical Writer** ·  **Software Engineer** ·  **Network Engineer**  
+**Software Engineer** · **Network Engineer** · **Technical Writer** 
 
 Welcome to my GitHub! I create developer-friendly tools, write clear and concise documentation, and explore the intersection of code, networks, and user experience.
 
@@ -9,7 +9,7 @@ Welcome to my GitHub! I create developer-friendly tools, write clear and concise
 #### 🔺 [Courier - API Toolkit (TypeScript](https://github.com/dominic-wood/courier)
 A lightweight desktop app for sending HTTP requests and viewing formatted JSON responses. 
 
-#### ⚽ [WanderSport - Football Availability Tracker (JavaScript)](https://github.com/dominic-wood/wandersport)
+#### ⚽ [WanderSport - Football Availability (JavaScript)](https://github.com/dominic-wood/wandersport)
 A lightweight web app to manage weekly football game attendance. Players can confirm availability, get automatically moved to standby if the match fills up, and receive email notifications if promoted due to someone dropping out. 
 
 #### 🛠️ [NetTools (Python)](https://github.com/dominic-wood/nettools)  
