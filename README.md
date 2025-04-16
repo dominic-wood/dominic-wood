@@ -6,7 +6,7 @@ Welcome to my GitHub! I create developer-friendly tools, write clear and concise
 
 ## 🧰 Featured Projects
 
-#### 🔺 [Courier - API Toolkit (TypeScript](https://github.com/dominic-wood/courier)
+#### 🔺 [Courier - API Toolkit (TypeScript)](https://github.com/dominic-wood/courier)
 A lightweight desktop app for sending HTTP requests and viewing formatted JSON responses. 
 
 #### ⚽ [WanderSport - Football Availability (JavaScript)](https://github.com/dominic-wood/wandersport)
