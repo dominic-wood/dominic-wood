@@ -12,7 +12,7 @@ A lightweight desktop app for sending HTTP requests and viewing formatted JSON r
 #### ⚽ [WanderSport - Football Availability (JavaScript)](https://github.com/dominic-wood/wandersport)
 A lightweight web app to manage weekly football game attendance. Players can confirm availability, get automatically moved to standby if the match fills up, and receive email notifications if promoted due to someone dropping out. 
 
-#### 🚀 [RocketCloud AI (Python/Typescript)(https://github.com/dominic-wood/rocketcloud)
+#### 🚀 [RocketCloud AI (Python/Typescript)](https://github.com/dominic-wood/rocketcloud)
 A full-stack audio transcription app that converts video/audio files and YouTube videos to text with AI-powered summaries. Built with a FastAPI backend and Next.js frontend, it supports multiple transcription engines (OpenAI Whisper, WhisperX) and integrates with SharePoint for video processing. Includes real-time progress updates and audio playback.
 
 #### 🛠️ [NetTools (Python)](https://github.com/dominic-wood/nettools)  
